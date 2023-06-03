@@ -1,0 +1,42 @@
+.footerleft {
+    color:white;
+     position: absolute;
+    /*bottom: 0px; */
+    margin-top: 650px;
+    background-color:rgb(69, 102, 140);
+    height:35px;
+    width:300px;
+    
+    border-top-right-radius:30px;
+}
+.footerright {
+    color:white;
+    position: absolute;
+    margin-top: 650px;
+    margin-left:724px;
+    background-color:rgb(69, 102, 140);
+    height:35px;
+    width:300px;
+    border-top-left-radius:30px;
+}
+.footertop{
+    color:white;
+    position: absolute;
+    margin-top:550px;
+    background-color:rgb(69, 102, 140);
+    height:110px;
+    width:30px;
+   
+    border-top-right-radius:30px;
+}
+.footerbottom{
+    color:white;
+    position: absolute;
+    margin-top:550px;
+    margin-left:994px;
+    background-color:rgb(69, 102, 140);
+    height:110px;
+    width:30px;
+   
+    border-top-left-radius:30px;
+}
